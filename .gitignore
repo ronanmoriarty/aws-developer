@@ -253,3 +253,6 @@ tools/
 
 **/appSettings.json
 test-results/
+
+**/*.pem
+**/*.ppk
